@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:{D:/01 Engineering/06 FPGA/01 Projects/Vivado/Arty-S7-001/Arty-S7-50-Master.xdc} rfile:../../../Arty-S7-50-Master.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:200 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN G15 [get_ports a]
+set_property src_info {type:XDC file:1 line:201 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN K16 [get_ports b]
+set_property src_info {type:XDC file:1 line:203 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN J15 [get_ports y]

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Feb  4 17:50:05 2025
+# Process ID         : 3448
+# Current directory  : D:/01 Engineering/06 FPGA/01 Projects/Vivado/Arty-S7-001/Arty-S7-001.runs/synth_1
+# Command line       : vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file           : D:/01 Engineering/06 FPGA/01 Projects/Vivado/Arty-S7-001/Arty-S7-001.runs/synth_1/top.vds
+# Journal file       : D:/01 Engineering/06 FPGA/01 Projects/Vivado/Arty-S7-001/Arty-S7-001.runs/synth_1\vivado.jou
+# Running On         : Jarvis
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 7 3700X 8-Core Processor             
+# CPU Frequency      : 3600 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 17126 MB
+# Swap memory        : 20295 MB
+# Total Virtual      : 37422 MB
+# Available Virtual  : 7061 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
