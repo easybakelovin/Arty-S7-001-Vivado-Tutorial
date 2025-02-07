@@ -3,45 +3,37 @@
    <wave_state>
    </wave_state>
    <db_ref_list>
-      <db_ref path="tb_behav.wdb" id="1">
+      <db_ref path="halfadder_behav.wdb" id="1">
          <top_modules>
             <top_module name="glbl" />
-            <top_module name="tb" />
+            <top_module name="halfadder" />
          </top_modules>
       </db_ref>
    </db_ref_list>
    <zoom_setting>
-      <ZoomStartTime time="146.708 ns"></ZoomStartTime>
-      <ZoomEndTime time="210.659 ns"></ZoomEndTime>
-      <Cursor1Time time="152.458 ns"></Cursor1Time>
+      <ZoomStartTime time="441.908 ns"></ZoomStartTime>
+      <ZoomEndTime time="511.619 ns"></ZoomEndTime>
+      <Cursor1Time time="500.000 ns"></Cursor1Time>
    </zoom_setting>
    <column_width_setting>
       <NameColumnWidth column_width="238"></NameColumnWidth>
-      <ValueColumnWidth column_width="154"></ValueColumnWidth>
+      <ValueColumnWidth column_width="150"></ValueColumnWidth>
    </column_width_setting>
-   <WVObjectSize size="5" />
-   <wvobject fp_name="/tb/a" type="array">
-      <obj_property name="ElementShortName">a[3:0]</obj_property>
-      <obj_property name="ObjectShortName">a[3:0]</obj_property>
-      <obj_property name="CustomSignalColor">#FFD700</obj_property>
-      <obj_property name="UseCustomSignalColor">true</obj_property>
-      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
-      <obj_property name="CellHeight">100</obj_property>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/halfadder/a" type="logic">
+      <obj_property name="ElementShortName">a</obj_property>
+      <obj_property name="ObjectShortName">a</obj_property>
    </wvobject>
-   <wvobject fp_name="/tb/b" type="array">
-      <obj_property name="ElementShortName">b[3:0]</obj_property>
-      <obj_property name="ObjectShortName">b[3:0]</obj_property>
+   <wvobject fp_name="/halfadder/b" type="logic">
+      <obj_property name="ElementShortName">b</obj_property>
+      <obj_property name="ObjectShortName">b</obj_property>
    </wvobject>
-   <wvobject fp_name="/tb/y" type="array">
-      <obj_property name="ElementShortName">y[4:0]</obj_property>
-      <obj_property name="ObjectShortName">y[4:0]</obj_property>
+   <wvobject fp_name="/halfadder/s" type="logic">
+      <obj_property name="ElementShortName">s</obj_property>
+      <obj_property name="ObjectShortName">s</obj_property>
    </wvobject>
-   <wvobject fp_name="/tb/i" type="array">
-      <obj_property name="ElementShortName">i[31:0]</obj_property>
-      <obj_property name="ObjectShortName">i[31:0]</obj_property>
-   </wvobject>
-   <wvobject fp_name="/tb/dut/temp" type="array">
-      <obj_property name="ElementShortName">temp[4:0]</obj_property>
-      <obj_property name="ObjectShortName">temp[4:0]</obj_property>
+   <wvobject fp_name="/halfadder/c" type="logic">
+      <obj_property name="ElementShortName">c</obj_property>
+      <obj_property name="ObjectShortName">c</obj_property>
    </wvobject>
 </wave_config>
